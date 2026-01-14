@@ -7,7 +7,7 @@ It is a **console-based application** intended to help understand core JDBC conc
 ---
 
 ## Technologies Used
-- Java (JDK 8)
+- Java (JDK 21)
 - JDBC
 - PostgreSQL
 - Maven
